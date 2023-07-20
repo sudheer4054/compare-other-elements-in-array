@@ -24,11 +24,10 @@ public class ss {
         int res=sum+last;
         System.out.println(res);
     }
-
-```
     public static void main(String[] args) {
         int arr2[]={52,66,64,36,45,24,32};
         array(arr2);
     }
 
 }
+```
